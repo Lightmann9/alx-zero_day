@@ -1,1 +1,1 @@
-Advancing in Git
+Advancing in Git knowledge
